@@ -31,7 +31,6 @@ in a microstructured side-hole germanium doped fiber. The extended model should 
 for the fibers with loss beyond 0.01 dB/m. My results point out, that even in such fibers, 
 efficient SHG without an external second-harmonic beam is possible.
 
-![Example screenshot](./screenshots/140401_1_2000003.png)
 ![Example screenshot](./screenshots/5.png)
 
 ## Technologies used
@@ -39,6 +38,7 @@ efficient SHG without an external second-harmonic beam is possible.
 
 ## Citation
 
+```
 @article{Majchrowska:18,
     author = {Sylwia Majchrowska and Jakub Pabisiak and Tadeusz Martynkien and Pawe{\l} Mergo and Karol Tarnowski},
     journal = {Opt. Lett.},
@@ -50,6 +50,7 @@ efficient SHG without an external second-harmonic beam is possible.
     month = {Jun},
     year = {2018},
 }
+```
 
 ## Status
 Project is: _finished_
