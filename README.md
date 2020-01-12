@@ -5,7 +5,7 @@ The official repository for my master thesis in physics.
 
 ## Table of contents
 * [General info](#general-info)
-* [Programming language](#technologies)
+* [Programming language](#Technologies-used)
 * [Citation](#citation)
 * [Status](#status)
 
